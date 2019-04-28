@@ -10,7 +10,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Deploy e CI usando Heroku.
+Deploy e CI usando Heroku e GitHub.
 
 Obs: Este repositório é uma cópia do [ReactJS - Módulo 3](https://github.com/osvaldokalvaitir/reactjs-modulo3) para realização de deploy e entrega contínua.
 
@@ -25,6 +25,8 @@ Obs: Este repositório é uma cópia do [ReactJS - Módulo 3](https://github.com
   - [Configurações Iniciais](#configurações-iniciais)
 
   - [Instalação do Projeto](#instalação-do-projeto)
+
+  - [Configuração das Variáveis de Ambiente](#configuração-das-variáveis-de-ambiente)
 
   - [Execução do Projeto](#execução-do-projeto)
 
@@ -58,6 +60,10 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 ### Instalação do Projeto
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Instalação de Projeto.
+
+### Configuração das Variáveis de Ambiente
+
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/dotenv.md) e siga a Configuração de Variáveis de Ambiente.
 
 ### Execução do Projeto
 
@@ -116,6 +122,10 @@ Para o servidor Ubuntu, clique [aqui](https://github.com/osvaldokalvaitir/projec
       - Busca dados de um repositório
 
 ### Ferramentas
+
+- [Git](https://github.com/osvaldokalvaitir/projects-settings/blob/master/version-control/git.md)
+
+- [GitHub](https://github.com/osvaldokalvaitir/projects-settings/blob/master/version-control/github.md)
 
 - [Reactotron](https://github.com/osvaldokalvaitir/projects-settings/blob/master/inspector/reactotron.md)
 
