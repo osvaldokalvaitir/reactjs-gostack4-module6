@@ -10,7 +10,9 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-GitHub Favorite Application using Redux, Redux-Saga, Ducks, Reactotron and React Router
+Deploy e CI usando Heroku.
+
+Obs: Este repositório é uma cópia do [ReactJS - Módulo 3](https://github.com/osvaldokalvaitir/reactjs-modulo3) para realização de deploy e entrega contínua.
 
 ## Índice
 
@@ -26,6 +28,8 @@ GitHub Favorite Application using Redux, Redux-Saga, Ducks, Reactotron and React
 
   - [Execução do Projeto](#execução-do-projeto)
 
+  - [Deploy e CI do Projeto](#deploy-e-ci-do-projeto)
+
 - [Utilizados no Projeto](#utilizados-no-projeto)
 
   - [Bibliotecas](#bibliotecas)
@@ -33,6 +37,10 @@ GitHub Favorite Application using Redux, Redux-Saga, Ducks, Reactotron and React
   - [APIs](#apis)
 
   - [Ferramentas](#ferramentas)
+
+    - [Servidor Heroku](#servidor-heroku)
+
+    - [Servidor Ubuntu](#servidor-ubuntu)
 
 ## Capturas de Tela
 
@@ -55,6 +63,12 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md) e siga a Execução de Projeto.
 
+### Deploy e CI do Projeto
+
+Para o servidor Heroku, clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/paas/heroku.md) e siga Criar um app, usando as ferramentas [Servidor Heroku](#servidor-heroku).
+
+Para o servidor Ubuntu, clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/os/ubuntu.md) e siga Criando Servidor, usando as ferramentas [Servidor Ubuntu](#servidor-ubuntu).
+
 ## Utilizados no Projeto
 
 ### Bibliotecas
@@ -72,6 +86,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 - [eslint-plugin-jsx-a11y](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/eslint-plugin-jsx-a11y.md)
 
 - [eslint-plugin-react](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/eslint-plugin-react.md)
+
+- [Heroku CLI](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/heroku.md)
 
 - [prop-types](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/prop-types.md)
 
@@ -102,3 +118,9 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 ### Ferramentas
 
 - [Reactotron](https://github.com/osvaldokalvaitir/projects-settings/blob/master/inspector/reactotron.md)
+
+#### Servidor Heroku
+
+- [Heroku](https://github.com/osvaldokalvaitir/projects-settings/blob/master/paas/heroku.md)
+
+#### Servidor Ubuntu
