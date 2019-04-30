@@ -10,7 +10,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Deploy e CI usando Heroku e Git. Ou usando Ubuntu, DigitalOcean, GitHub, PM2 e Nginx.
+Deploy e CI usando Heroku e Git. Ou usando Ubuntu, DigitalOcean, GitHub, PM2, Nginx e Buddy.
 
 Obs: Este repositório é uma cópia do [ReactJS - Módulo 3](https://github.com/osvaldokalvaitir/reactjs-modulo3) para realização de deploy e entrega contínua.
 
@@ -136,6 +136,8 @@ Para o servidor Ubuntu, clique [aqui](https://github.com/osvaldokalvaitir/projec
 - [Heroku](https://github.com/osvaldokalvaitir/projects-settings/blob/master/paas/heroku.md)
 
 ###### Servidor Ubuntu
+
+- [Buddy](https://github.com/osvaldokalvaitir/projects-settings/blob/master/ci-cd/buddy.md)
 
 - [DigitalOcean](https://github.com/osvaldokalvaitir/projects-settings/blob/master/server/digitalocean.md)
 

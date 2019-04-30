@@ -42,7 +42,7 @@ class Main extends Component {
             value={this.state.repositoryInput}
             onChange={e => this.setState({ repositoryInput: e.target.value })}
           />
-          <button type="submit">Adicionar</button>
+          <button type="submit">Adicionar item</button>
 
           {this.props.favorites.loading && <span>Carregando...</span>}
 
