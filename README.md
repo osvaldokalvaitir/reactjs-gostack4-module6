@@ -10,7 +10,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Deploy e CI usando Heroku e GitHub.
+Deploy e CI usando Heroku e Git. Ou usando Ubuntu, DigitalOcean, GitHub, PM2 e Nginx.
 
 Obs: Este repositório é uma cópia do [ReactJS - Módulo 3](https://github.com/osvaldokalvaitir/reactjs-modulo3) para realização de deploy e entrega contínua.
 
@@ -40,10 +40,6 @@ Obs: Este repositório é uma cópia do [ReactJS - Módulo 3](https://github.com
 
   - [Ferramentas](#ferramentas)
 
-    - [Servidor Heroku](#servidor-heroku)
-
-    - [Servidor Ubuntu](#servidor-ubuntu)
-
 ## Capturas de Tela
 
 ### Principal
@@ -71,9 +67,9 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 ### Deploy e CI do Projeto
 
-Para o servidor Heroku, clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/paas/heroku.md) e siga Criar um app, usando as ferramentas [Servidor Heroku](#servidor-heroku).
+Para o servidor Heroku, clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/paas/heroku.md) e siga Criar um app no Heroku > Projeto ReactJS com Create React App, usando as bibliotecas e ferramentas do Servidor Heroku.
 
-Para o servidor Ubuntu, clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/os/ubuntu.md) e siga Criando Servidor, usando as ferramentas [Servidor Ubuntu](#servidor-ubuntu).
+Para o servidor Ubuntu, clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/os/ubuntu.md) e siga Criando Servidor, usando as bibliotecas e ferramentas do Servidor Ubuntu.
 
 ## Utilizados no Projeto
 
@@ -93,8 +89,6 @@ Para o servidor Ubuntu, clique [aqui](https://github.com/osvaldokalvaitir/projec
 
 - [eslint-plugin-react](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/eslint-plugin-react.md)
 
-- [Heroku CLI](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/heroku.md)
-
 - [prop-types](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/prop-types.md)
 
 - [React Redux](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-redux.md)
@@ -111,6 +105,16 @@ Para o servidor Ubuntu, clique [aqui](https://github.com/osvaldokalvaitir/projec
 
 - [Redux-Saga](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/redux-saga.md)
 
+###### Servidor Heroku
+
+- [Heroku CLI](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/heroku.md)
+
+###### Servidor Ubuntu
+
+- [PM2](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/pm2.md)
+
+- [serve](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/serve.md)
+
 ### APIs
 
 - **[GitHub](https://api.github.com)**
@@ -125,12 +129,18 @@ Para o servidor Ubuntu, clique [aqui](https://github.com/osvaldokalvaitir/projec
 
 - [Git](https://github.com/osvaldokalvaitir/projects-settings/blob/master/version-control/git.md)
 
-- [GitHub](https://github.com/osvaldokalvaitir/projects-settings/blob/master/version-control/github.md)
-
 - [Reactotron](https://github.com/osvaldokalvaitir/projects-settings/blob/master/inspector/reactotron.md)
 
-#### Servidor Heroku
+###### Servidor Heroku
 
 - [Heroku](https://github.com/osvaldokalvaitir/projects-settings/blob/master/paas/heroku.md)
 
-#### Servidor Ubuntu
+###### Servidor Ubuntu
+
+- [DigitalOcean](https://github.com/osvaldokalvaitir/projects-settings/blob/master/server/digitalocean.md)
+
+- [GitHub](https://github.com/osvaldokalvaitir/projects-settings/blob/master/version-control/github.md)
+
+- [Nginx](https://github.com/osvaldokalvaitir/projects-settings/blob/master/web-server/nginx.md)
+
+- [Ubuntu](https://github.com/osvaldokalvaitir/projects-settings/blob/master/os/ubuntu.md)
