@@ -30,8 +30,6 @@ Obs: Este repositório é uma cópia do [ReactJS - Módulo 3](https://github.com
 
   - [Execução do Projeto](#execução-do-projeto)
 
-  - [Deploy e CI do Projeto](#deploy-e-ci-do-projeto)
-
 - [Utilizados no Projeto](#utilizados-no-projeto)
 
   - [Bibliotecas](#bibliotecas)
@@ -51,25 +49,19 @@ Esta é a única tela, onde encontram-se todos os repositórios do GitHub que o 
 
 ### Configurações Iniciais
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga as Configurações Iniciais.
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configurações Iniciais`.
 
 ### Instalação do Projeto
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Instalação de Projeto.
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
 
 ### Configuração das Variáveis de Ambiente
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/dotenv.md) e siga a Configuração de Variáveis de Ambiente.
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/dotenv.md) e siga `Configuração de Variáveis de Ambiente`.
 
 ### Execução do Projeto
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md) e siga a Execução de Projeto.
-
-### Deploy e CI do Projeto
-
-Para o servidor Heroku, clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/paas/heroku.md) e siga Criar um app no Heroku > Projeto ReactJS com Create React App, usando as bibliotecas e ferramentas do Servidor Heroku.
-
-Para o servidor Ubuntu, clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/os/ubuntu.md) e siga Criando Servidor, usando as bibliotecas e ferramentas do Servidor Ubuntu.
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md) e siga `Execução de Projeto`.
 
 ## Utilizados no Projeto
 
