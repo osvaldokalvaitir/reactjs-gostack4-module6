@@ -125,7 +125,7 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 ###### Servidor Heroku
 
-- [Heroku](https://github.com/osvaldokalvaitir/projects-settings/blob/master/paas/heroku.md)
+- [Heroku](https://github.com/osvaldokalvaitir/projects-settings/blob/master/paas/heroku.md) - Siga `Projeto ReactJS com Create React App > Deploy com Heroku CLI`
 
 ###### Servidor Ubuntu
 
