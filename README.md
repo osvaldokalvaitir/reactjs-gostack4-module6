@@ -28,7 +28,7 @@ Obs: Este repositório é uma cópia do [ReactJS - Módulo 3](https://github.com
 
   - [Configuração das Variáveis de Ambiente](#configuração-das-variáveis-de-ambiente)
 
-  - [Execução do Projeto](#execução-do-projeto)
+  - [Execução do Projeto para Desenvolvimento](#execução-do-projeto-para-desenvolvimento)
 
 - [Utilizados no Projeto](#utilizados-no-projeto)
 
@@ -59,9 +59,9 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/dotenv.md) e siga `Configuração de Variáveis de Ambiente`.
 
-### Execução do Projeto
+### Execução do Projeto para Desenvolvimento
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md) e siga `Execução de Projeto`.
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md) e siga `Execução de Projeto para Desenvolvimento`.
 
 ## Utilizados no Projeto
 
