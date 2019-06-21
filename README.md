@@ -22,13 +22,13 @@ Obs: Este repositório é uma cópia do [ReactJS - Módulo 3](https://github.com
 
 - [Desenvolvimento](#desenvolvimento)
 
-  - [Configurações Iniciais](#configurações-iniciais)
+  - [Configuração do Ambiente](#configuração-do-ambiente)
 
   - [Instalação do Projeto](#instalação-do-projeto)
 
   - [Configuração das Variáveis de Ambiente](#configuração-das-variáveis-de-ambiente)
 
-  - [Execução do Projeto para Desenvolvimento](#execução-do-projeto-para-desenvolvimento)
+  - [Execução do Projeto](#execução-do-projeto)
 
 - [Utilizados no Projeto](#utilizados-no-projeto)
 
@@ -47,9 +47,9 @@ Esta é a única tela, onde encontram-se todos os repositórios do GitHub que o 
 
 ## Desenvolvimento
 
-### Configurações Iniciais
+### Configuração do Ambiente
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configurações Iniciais`.
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configuração de Ambiente`.
 
 ### Instalação do Projeto
 
@@ -59,9 +59,9 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/dotenv.md) e siga `Configuração de Variáveis de Ambiente`.
 
-### Execução do Projeto para Desenvolvimento
+### Execução do Projeto
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md) e siga `Execução de Projeto para Desenvolvimento`.
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md) e siga `Execução de Projeto para Desenvolvimento` ou `Construção e Execução de Projeto para Produção`.
 
 ## Utilizados no Projeto
 
