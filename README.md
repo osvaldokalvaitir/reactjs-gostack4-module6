@@ -1,4 +1,4 @@
-# ReactJS - GoStack 4 - Module 6
+# ReactJS - GoStack 4 Module 6
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/reactjs-modulo6/blob/master/LICENSE)
 ![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/reactjs-modulo6.svg)
