@@ -56,7 +56,7 @@ npm install | yarn
 npm run start | yarn start
 ```
 
-Click to learn more about the tools used: [Git](https://github.com/osvaldokalvaitir/awesome/blob/main/src/version-controls/git/git.md).
+Click to learn more about the tools used: [Git](https://github.com/osvaldokalvaitir/awesome/blob/main/src/version-controls/git.md).
 
 Heroku server: [Heroku](https://github.com/osvaldokalvaitir/awesome/blob/main/src/paas/heroku.md) - Follow the steps `Projeto ReactJS com Create React App > Deploy com Heroku CLI`
 
